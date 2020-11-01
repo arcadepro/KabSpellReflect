@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Spell Reflect
+## Interface: 90001
+## Author: Kab
+## Version: 1.00
+## Notes: Provides an alert when you have the the Spell Reflect Buff.
+
+KabSpellReflect.lua
